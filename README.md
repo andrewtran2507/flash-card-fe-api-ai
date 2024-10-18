@@ -47,7 +47,7 @@ https://github.com/andrewtran2507/flash-card-fe-api-ai/blob/main/flash-card-be/p
 https://github.com/andrewtran2507/flash-card-fe-api-ai/blob/main/flash-card-be/public/video/flash-card-crud.mp4
 ```
 **3. BE AI Prompt**
-[Video demo link](./flash-card-be/public/video/register-login-simple.mp4?raw=true)
+[Video demo link](./flash-card-be/public/video/ai-promt.mp4?raw=true)
 ```bash
 https://github.com/andrewtran2507/flash-card-fe-api-ai/blob/main/flash-card-be/public/video/ai-promt.mp4
 ```
