@@ -1,0 +1,39 @@
+.input {
+  width: 50% !important;
+  margin: 0px !important;
+}
+.dashboard-header {
+  display: flex;
+  gap: 4px;
+  padding-top: 20px;
+}
+.newcard-btn {
+ margin: 0px !important;
+}
+.card-list {
+  margin-top: 20px;
+  width: 100%;
+  max-height: 500px; 
+  overflow-y: auto;
+  padding-right: 30px;
+}
+.dasboard-content{
+  width: 100%;
+  display: flex;
+}
+.play-icon {
+  font-size: 120px;
+}
+.icon-content {
+  display: flex;
+  width: 40%;
+  justify-content: center;
+  align-items: center;
+  &:hover {
+    color: rgb(196, 188, 82);
+  }
+}
+.study-btn {
+  background-color: red;
+  margin: 0px !important;
+}
